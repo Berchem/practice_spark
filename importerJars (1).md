@@ -177,8 +177,8 @@
     <td>get delimiter config section or set default delimiter</td>
     <td>
       <ul>
-        <li>&#9745; get config</li>
-        <li>&#9745; default</li>
+        <li>[x] get config</li>
+        <li>[x] default</li>
     </td>
   </tr>
   <tr>
